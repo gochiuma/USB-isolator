@@ -1,0 +1,28 @@
+[Eagle]
+Version="06 06 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/ADUM4160BRIZ.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/G3VM-61GR2.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/con-hirose.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/generic.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/MC32593.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/NJM7805FA.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/Akizuki.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/MAX3421EEHJ+.lbr"
+UsedLibrary="E:/Documents/gitrepos/work/keisuu/I2C-VL53L1X-Array/Eagle/Lib/FA-238V_12.0000MB-W3.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 599 399"
+State=3
+Number=0
+
+[Desktop]
+Screen="2970 1680"
+Window="Win_1"
